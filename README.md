@@ -17,9 +17,8 @@ A simple React weather application built with **Vite** that allows users to sear
 ---
 
 ## Demo
-
+This is demo screenshot: 
 ![alt text](image.png)
-
 ---
 
 ## Tech Stack
